@@ -1,4 +1,5 @@
-# APS360_Artificial_Intelligence
+# APS360 Artificial Intelligence Project: Music Transcription
+
 
 Introduction
 
@@ -9,3 +10,5 @@ First, transcription can help make music more accessible, as scores can be expen
 Automatic music transcription would help accomplish all the aforementioned benefits minus the drawbacks. However, because of the complexity of music, an algorithmic way of processing audio recordings into a score is difficult to achieve. Thus, we believe that machine learning is the best approach to tackle such a problem because of its advantage in dealing with complex data.
 
 Thus, our goal is to create a deep learning model that can take in an audio recording of classical music and provide an automatic transcription of the music. We split up the project into two milestones: milestone 1 deals with instrument identification while milestone 2 deals with note identification.
+
+Collaborators: Leo Han, Matthew Leung, Katherine Liang, Lucy (Xin Yu) Ma
