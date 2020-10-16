@@ -11,7 +11,6 @@ Thus, our goal is to create a deep learning model that can take in an audio reco
 
 Summary Illustration
 
-![GitHub Logo](/images/logo.png)
-Format: ![Summary Illustration](url)
+![Summary Illustration](Report Illustration.png)
 
 Collaborators: Leo Han, Matthew Leung, Katherine Liang, Lucy (Xin Yu) Ma
