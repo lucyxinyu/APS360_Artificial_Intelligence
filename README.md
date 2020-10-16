@@ -9,7 +9,6 @@ Automatic music transcription would help accomplish all the aforementioned benef
 
 Thus, our goal is to create a deep learning model that can take in an audio recording of classical music and provide an automatic transcription of the music. We split up the project into two milestones: milestone 1 deals with instrument identification while milestone 2 deals with note identification.
 
-Summary Illustration
 
 [Summary Illustration](https://github.com/lucyxinyu/APS360_Artificial_Intelligence/blob/master/Report%20Illustration.png)
 
